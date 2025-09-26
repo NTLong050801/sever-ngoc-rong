@@ -29,7 +29,7 @@ import java.util.List;
 
 
 public class DataGame {
-
+    // long test 3223232323
     public static byte vsData = 80;
     public static byte vsMap = 80;
     public static byte vsSkill = 6;
